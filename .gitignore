@@ -1,0 +1,35 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+
+# IntelliJ/PyCharm
+.idea/
+
+# OS
+.DS_Store
+
+# Generated Files (Logs and Outputs)
+*.log
+cache/
+centrality_measures.txt
+centrality_measuresFromUser.txt
+characterRelationsEN.txt
+characterRelationsENFromUser.txt
+characterRelationsTR.txt
+characterRelationsTRFromUser.txt
+charactersEN.txt
+charactersTR.txt
+event_log.txt
+hs_err_pid*.log
+karakter_english.txt
+wordsEN.txt
+wordsRelationsEN.txt
+wordsRelationsTR.txt
+wordsTR.txt
+
+# Keep source input files if needed, but exclude large ones if any (none seen yet except maybe the xlsx if it's data)
+# keeping beyaz_kale.xlsx as it seems to be the main input data
