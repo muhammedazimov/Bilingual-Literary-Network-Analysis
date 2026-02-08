@@ -3,7 +3,6 @@
 # 📖 Beyaz Kale: Edebi Karakterlerin Çift Dilli Sosyal Ağ Analizi
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Internship Project](https://img.shields.io/badge/Project-Software%20Engineering%20Internship-orange)]()
 [![Natural Language Processing](https://img.shields.io/badge/Field-NLP%20%26%20Network%20Science-purple)]()
 
@@ -20,7 +19,7 @@
 ## 🇹🇷 Türkçe
 
 ### 📌 Proje Özeti
-Bu çalışma, **Yazılım Mühendisliği Staj Programı** kapsamında geliştirilmiş akademik nitelikli bir **Doğal Dil İşleme (NLP)** ve **Sosyal Ağ Analizi (SNA)** projesidir. Proje, Orhan Pamuk'un *"Beyaz Kale"* adlı romanını vaka çalışması olarak kullanarak, metin içerisindeki karakterleri tespit eder, bu karakterler arasındaki gizli ilişkileri açığa çıkarır ve sosyal ağ teorisi metriklerini kullanarak karakterlerin eserdeki matematiksel önemini hesaplar.
+Bu çalışma, **Bilgisayar Mühendisliği Staj Programı** kapsamında geliştirilmiş akademik nitelikli bir **Doğal Dil İşleme (NLP)** ve **Sosyal Ağ Analizi (SNA)** projesidir. Proje, Orhan Pamuk'un *"Beyaz Kale"* adlı romanını vaka çalışması olarak kullanarak, metin içerisindeki karakterleri tespit eder, bu karakterler arasındaki gizli ilişkileri açığa çıkarır ve sosyal ağ teorisi metriklerini kullanarak karakterlerin eserdeki matematiksel önemini hesaplar.
 
 Uygulama, **Türkçe** ve **İngilizce** metinleri paralel olarak işleyebilen çift dilli bir mimariye sahiptir.
 
@@ -102,7 +101,7 @@ Beyaz_Kale_Project/
 ## 🇬🇧 English
 
 ### 📌 Project Abstract
-This project is an advanced **Natural Language Processing (NLP)** and **Social Network Analysis (SNA)** application developed as part of a **Software Engineering Internship**. Using Orhan Pamuk's novel *"The White Castle"* as a primary case study, the system detects characters within literary texts, uncovers hidden relationships between them, and calculates the mathematical importance of each character using social network theory metrics.
+This project is an advanced **Natural Language Processing (NLP)** and **Social Network Analysis (SNA)** application developed as part of a **Computer Engineering Internship**. Using Orhan Pamuk's novel *"The White Castle"* as a primary case study, the system detects characters within literary texts, uncovers hidden relationships between them, and calculates the mathematical importance of each character using social network theory metrics.
 
 The architecture is fully bilingual, capable of processing both **Turkish** and **English** corpora in parallel.
 
